@@ -1,0 +1,1 @@
+Las capturas del los metodos funcionando estan en la carpte Capturas de Pantalla
